@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm Igor!👋</h1>
 <h4 align="center" color: #555;>
-  💻 Full Stack Developer | 🎓 Computer Science Student | 🌐 Web Enthusiast
+  💻 Software Developer | 🎓 Computer Science Student | 🌐 Web Enthusiast
 </h4>
 <h2>👨‍💻 About Me:</h2>
 
-<h3 align="center">Passionate Software Engineer with a passion for full-stack web development. Currently in my second semester of Computer Science, I'm actively building projects using TypeScript, React, and Node.js. Enthusiastic about learning and contributing to innovative software solutions.</h3>
+<h3 align="center">Eager Software Engineer with a passion for full-stack web development. Currently in my second semester of Computer Science, I'm actively building projects using TypeScript, React, and Node.js. Enthusiastic about learning and contributing to innovative software solutions.</h3>
 
 - 🌱 I’m currently learning **How to build better websites with React and designs with Figma**
 
