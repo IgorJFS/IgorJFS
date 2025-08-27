@@ -4,7 +4,9 @@
 </h4>
 <h2>👨‍💻 About Me:</h2>
 
-<h3 align="center">Eager Software Engineer with a passion for full-stack web development. Currently in my second semester of Computer Science, I'm actively building projects using TypeScript, React, and Node.js. Enthusiastic about learning and contributing to innovative software solutions.</h3>
+<h3 align="center">Eager Software Developer with a passion for full-stack web development. Currently in my second semester of Computer Science, I'm actively building projects using TypeScript, React, and Node.js. Enthusiastic about learning and contributing to innovative software solutions.</h3>
+
+- 🐙 Love contributing to Open Source projects
 
 - 🌱 I’m currently learning **How to build better websites with React and designs with Figma**
 
