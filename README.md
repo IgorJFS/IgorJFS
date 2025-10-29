@@ -8,7 +8,7 @@
 
 - 🐙 Love contributing to Open Source projects
 
-- 🌱 I’m currently learning **How to build better websites with React and designs with Figma**
+- 🌱 I’m currently learning **How to build better websites with Vue and Astro and designs with Figma**
 
 - 🌍 Languages: **Native Portuguese (PT-BR) and Fluent English (EN)**
 
