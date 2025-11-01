@@ -1,10 +1,10 @@
-<h1 align="center">Hello, I'm Igor!👋</h1>
+<h1 align="center">Hello, I'm Igor!</h1>
 <h4 align="center" color: #555;>
   💻 Software Developer | 🎓 Computer Science Student | 🌐 Open-Source Dev
 </h4>
 <h2>👨‍💻 About Me:</h2>
 
-<h3 align="center">Software Developer with love for web development. Currently in my second semester of Computer Science, I'm actively building projects using TypeScript, React, Vue and Node.js. Enthusiastic about learning and contributing to innovative software solutions.</h3>
+<h3 align="center">Software Developer with a focus on web development. Currently in my second semester of Computer Science, I’m building projects using TypeScript, React, Vue, and Node.js. Always looking to learn new skills and contributing to open source.</h3>
 
 - 🐙 Love contributing to Open Source projects
 
