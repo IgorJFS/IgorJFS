@@ -1,12 +1,16 @@
 <h1 align="center">Hello, I'm Igor!</h1>
 <h4 align="center" color: #555;>
-  💻 Software Developer | 🎓 Computer Science Student | 🌐 Open-Source Dev
+  💻 Software Developer | 🎓 Overloaded Blog Founder | 🌐 Open-Source Dev
 </h4>
 <h2>👨‍💻 About Me:</h2>
 
 <h3 align="center">Software Developer with a focus on web development. Currently in my second semester of Computer Science, I’m building projects using TypeScript, React, Vue, and Node.js. Always looking to learn new skills and contributing to open source.</h3>
 
-- 🐙 Love contributing to Open Source projects
+- 📜 Founder of the <a href="www.overloaded.live"/>Overloaded Blog</a>, where we discuss about **modern society** and **develop critical thinking**
+
+- 🏥 Developed a website to support a nonprofit organization in Brazil. Consider donating to help thousands of people. 🩵
+
+- 🐙 Contributed over 8 different open source projects on GitHub
 
 - 🌱 I’m currently learning **How to build better websites with Vue and Astro and designs with Figma**
 
