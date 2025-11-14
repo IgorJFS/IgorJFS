@@ -6,7 +6,7 @@
 
 <h3 align="center">Software Developer with a focus on web development. Currently in my second semester of Computer Science, I’m building projects using TypeScript, React, Vue, and Node.js. Always looking to learn new skills and contributing to open source.</h3>
 
-- 📜 Founder of the <a target="blank" href="https://www.overloaded.live/"/>Overloaded Blog</a>, where we discuss about **modern society** and **develop critical thinking**
+- 📜 Founder of the <a target="_blank" href="https://www.overloaded.live/">Overloaded Blog</a>, where we discuss **modern society** and **critical thinking**
 
 - 🏥 Developed a website to support a nonprofit organization in Brazil. Consider donating to help thousands of people. 🩵
 
@@ -18,9 +18,9 @@
 
 <h3 align="left">Find Me Online:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/igor-moraes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/linked-in-alt.svg" alt="igor-moraes" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/igorjfs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/leet-code.svg" alt="igorjfs" height="30" width="40" /></a>
-<a href="https://discord.gg/celtinhaxd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/discord.svg" alt="celtinhaxd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/igor-moraes" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/linked-in-alt.svg" alt="igor-moraes" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/igorjfs" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/leet-code.svg" alt="igorjfs" height="30" width="40" /></a>
+<a href="https://discord.gg/celtinhaxd" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/discord.svg" alt="celtinhaxd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
