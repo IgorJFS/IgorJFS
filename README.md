@@ -44,7 +44,3 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=igorjfs&show_icons=true&hide_border=true&theme=react&locale=en" alt="igorjfs" />&nbsp; &nbsp; &nbsp; &nbsp;<img align="center" height="180px" alt="igorjfs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorJFS&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact&hide=ejs&exclude_repo=TailwindCSS-Login,Uber-Layout"/>
-</a>
-</p>
