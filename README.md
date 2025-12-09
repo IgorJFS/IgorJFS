@@ -8,7 +8,7 @@
 
 - 📜 Creator of the <a target="_blank" href="https://www.overloaded.live/">Overloaded Blog</a>, where we discuss **modern society** and **critical thinking**
 
-- 🏥 Developed a website to support a nonprofit organization in Brazil. Consider donating to help thousands of people.
+- 🏥 Developed a website to support a nonprofit organization in Brazil <a target="_blank" href="https://fundacaojoanna.org.br/">Fundação Joanna de Ângelis</a>. Consider donating to help thousands of people.
 
 - 🐙 Contributed over 8 different open source projects on GitHub
 
