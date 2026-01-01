@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Igor!</h1>
 <h4 align="center" color: #555;>
-  💻 Software Developer | 🎓 Overloaded Blog Founder | 🌐 Open-Source Dev
+  💻 Software Developer | 🎓 Overloaded Blog Creator | 🌐 Open-Source Dev
 </h4>
 <h2>👨‍💻 About Me:</h2>
 
