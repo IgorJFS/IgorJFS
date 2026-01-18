@@ -4,7 +4,7 @@
 </h4>
 <h2>👨‍💻 About Me:</h2>
 
-<h3 align="center">Software Developer with a focus on web development. Currently in my second semester of Computer Science, I’m building projects using TypeScript, React, Vue, Svelte, Astro and Node.js. Always looking to learn new skills and contributing to open source.</h3>
+<h3 align="center">Software Developer with a focus on web development. Currently in my third semester of Computer Science, I’m building projects using TypeScript, React, Vue, .NET and Node.js. Always looking to learn new skills and contributing to open source.</h3>
 
 - 📜 Creator of the <a target="_blank" href="https://www.overloaded.live/">Overloaded Blog</a>, where we discuss **modern society** and **critical thinking**
 
