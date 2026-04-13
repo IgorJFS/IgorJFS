@@ -10,9 +10,7 @@
 
 - 🏥 Developed a website to support a nonprofit organization in Brazil <a target="_blank" href="https://fundacaojoanna.org.br/">Fundação Joanna de Ângelis</a>. Consider donating to help thousands of people.
 
-- 🐙 Contributed over 8 different open source projects on GitHub
-
-- 🌱 I’m currently learning **How to build better websites with Vue and Svelte and designs with Figma**
+- 🐙 Contributed over 10 different open source projects on GitHub.
 
 - 🌍 Languages: **Native Portuguese (PT-BR) and Fluent English (EN)**
 
