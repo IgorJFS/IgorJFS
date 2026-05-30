@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Igor</h1>
+<h1 align="center">Hi there 👋</h1>
 <h4 align="center">
   💻 Software Developer | 🎓 Overloaded Blog Creator | 🌐 Open-Source Dev
 </h4>
